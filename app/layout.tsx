@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'DocuRAG: AI Q&A for Internal Knowledge Bases',
-  description: 'Value Proposition: For IT/HR departments & internal support teams, provides an instant, accurate Q&A interface over scattered internal documentation (wikis, Confluence, shared drives). Reduces search time, improves employee self-service & onboarding efficiency.
+  description: `Value Proposition: For IT/HR departments & internal support teams, provides an instant, accurate Q&A interface over scattered internal documentation (wikis, Confluence, shared drives). Reduces search time, improves employee self-service & onboarding efficiency.
 
 Target Customer: Medium to large organizations with extensive, decentralized internal knowledge bases. IT/HR support teams. Companies with high employee turnover.
 
@@ -19,7 +19,7 @@ Promotion Type: automatic',
 };
 
 export const viewport = {
-  width: 'device-width',
+  width: 'device-width`,
   initialScale: 1,
 };
 
