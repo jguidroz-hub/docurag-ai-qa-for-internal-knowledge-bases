@@ -18,6 +18,11 @@ Source Hypothesis ID: a2ce0f82-6284-4bb2-a2cc-58bcbf621f8d
 Promotion Type: automatic',
 };
 
+export const viewport = {
+  width: 'device-width',
+  initialScale: 1,
+};
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
